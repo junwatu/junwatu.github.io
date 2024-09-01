@@ -43,3 +43,7 @@ SaaS development, Sales & Marketing, and AI/ML.
 ## 👔  Gigs
 
 If you are in need of a high-quality blog on AI, Node.js, or JavaScript, or if you require a technical writer for your project, feel free to [contact me](mailto:equan.p@gmail.com) directly or better, [**hire me!**](https://www.upwork.com/freelancers/equan) 😎.
+
+<br/>
+
+© 2024 [Junwatu.com](https://junwatu.com)
