@@ -1,4 +1,4 @@
-# 🧑🏻‍💻  Hi, I am Equan P
+# 🧑🏻‍💻  Hi, 👋🏼
 
 I am a Technical Writer for SaaS documentation, API documentation, API integration, tutorials, and blogs. I have a software engineering background and experience in full-stack web development since 2014.
 
