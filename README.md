@@ -46,4 +46,4 @@ If you are in need of a high-quality blog on AI, Node.js, or JavaScript, or if y
 
 <br/>
 
-© 2024 [Junwatu.com](https://junwatu.com) | [Blogs](/blogs)
+© 2024 [Junwatu.com](https://junwatu.com)
