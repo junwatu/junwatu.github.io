@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: page
 title: "what-is-llm"
 date: 2024-09-02 07:57:00 -0000
 categories: AI LLM
