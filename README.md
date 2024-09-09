@@ -38,7 +38,7 @@ My role is writing detailed documentation for developers with the target reader,
 
 ## 📚 Currently Learning
 
-SaaS development, Sales & Marketing, and AI/ML.
+AI/ML Development, AI Applications & Integrations.
 
 ## 👔  Gigs
 
