@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Blogs"
-permalink: /blogs
+title: "Posts"
+permalink: /posts
 ---
 
 ## Articles
