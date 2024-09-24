@@ -10,29 +10,17 @@ I am a Technical Writer for SaaS documentation, API documentation, API integrati
 
 My role is writing unique technical articles, on how to use GridDB with Node.js applications.
 
-<details>
-<summary><i>Article Highlights</i></summary>
-
 - [Building Video Summarizer Using AI](https://griddb.net/en/blog/building-video-summarizer-using-ai/)
-
 - [Building AI Voice Note](https://griddb.net/en/blog/building-ai-voice-note/)  
-
 - [Building a 3D Motion Tracker: Integrating IMU, Arduino, Babylon.js, and GridDB](https://griddb.net/en/blog/3d-motion-tracker/)
-
 - [Processing Image Data using GPT4-Vision, Node.js, and GridDB](https://griddb.net/en/blog/processing-image-data-using-gpt4-vision-node-js-and-griddb/)
-
 - [Building a Desktop WiFi Network Monitor with Tauri, React, Node.js, and GridDB](https://griddb.net/en/blog/building-a-desktop-wifi-network-monitor-with-tauri-react-node-js-and-griddb/)
-
 - [Save Unity Game Data Using Node.js and GridDB](https://griddb.net/en/blog/save-unity-game-data-using-node-js-and-griddb/)
-
 - [Building an OpenAI API Tokens Usage Dashboard: Using GridDB, Node.js, and React](https://griddb.net/en/blog/building-an-openai-api-tokens-usage-dashboard-using-griddb-node-js-and-react/)
-
 - [Automated Website Content Generation using ChatGPT, Stable Diffusion, GridDB, and Node.js](https://griddb.net/en/blog/automated-website-content-generation-using-chatgpt-stable-diffusion-griddb-and-node-js/)
-
 - [How to Leverage ChatGPT, Node.js, and GridDB for Automated News Tagging](https://griddb.net/en/blog/how-to-leverage-chatgpt-node-js-and-griddb-for-automated-news-tagging/)
-
 - [Visualize Global Population Data with Mapbox, Node.js, and GridDB](https://griddb.net/en/blog/visualize-global-population-data-with-mapbox-node-js-and-griddb/)
-</details>
+
 <br/>
 
 **🎖️  Technical Writer at Ovok** `(2024)`
