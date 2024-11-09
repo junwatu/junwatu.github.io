@@ -12,6 +12,7 @@ My role is writing unique technical articles, on how to use GridDB with Node.js 
 
   **Article Highlights**
 
+- [Automate Slide Creation Using OpenAI and Node.js](https://griddb.net/en/blog/automate-slide-creation-using-openai-and-node-js/)
 - [Building Video Summarizer Using AI](https://griddb.net/en/blog/building-video-summarizer-using-ai/)
 - [Building AI Voice Note](https://griddb.net/en/blog/building-ai-voice-note/)  
 - [Building a 3D Motion Tracker: Integrating IMU, Arduino, Babylon.js, and GridDB](https://griddb.net/en/blog/3d-motion-tracker/)
