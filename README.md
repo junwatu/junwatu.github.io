@@ -36,7 +36,7 @@ My role is writing documentation explaining the FHIR concept and Ovok's related 
 
 **🎖️  Technical Writer at ROQ.dev** `(2023)`
 
-[ROQ](https://roq.dev) is a managed backend for multi-tenant SaaS applications.
+[ROQ](https://roq.tech) is a managed backend for multi-tenant SaaS applications.
 
 My role is writing detailed documentation for developers with the target reader, explaining how to use their product and how to integrate ROQ's API into new or existing applications.
 
